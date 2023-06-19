@@ -1,6 +1,4 @@
----
-title: "{{ replace .Name "-" " " | title }}"
-date: {{ .Date }}
-draft: true
----
-
+title:Default.Md
+replace-Name:
+Date:
+draft : true
